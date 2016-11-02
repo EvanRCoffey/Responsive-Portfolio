@@ -1,0 +1,5 @@
+Put images in this folder
+
+-your profile image
+-the placeholder images for the portfolio
+-the social icon images
